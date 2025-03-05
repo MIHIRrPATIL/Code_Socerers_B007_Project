@@ -1,0 +1,17 @@
+flask
+flask-bcrypt
+flask-jwt-extended
+google-cloud-speech
+pymongo
+pinecone-client
+langchain
+langchain-google-genai
+langchain-pinecone
+langchain-core
+langchain-huggingface
+python-dotenv
+google-cloud-translate
+typing-extensions 
+Flask-Cors
+matplotlib
+seaborn

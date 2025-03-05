@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore environment variables file
+.env
+
+# Ignore sensitive file
+python_backend/stt_credentials.json
